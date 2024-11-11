@@ -34,3 +34,5 @@ The models are evaluated based on **Accuracy** and **F1 Score**.
 
 
 ![WhatsApp Image 2024-11-11 at 12 10 23_0b811284](https://github.com/user-attachments/assets/c3a137fd-7e09-48fb-82c3-d08c03537361)
+
+![WhatsApp Image 2024-11-11 at 17 02 30_8d73cd02](https://github.com/user-attachments/assets/110e13a3-c4df-4be4-a7a7-2c6497f1b173)
